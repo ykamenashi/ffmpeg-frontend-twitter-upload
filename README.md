@@ -17,11 +17,11 @@ output video file for Twitter / YouTube with ffmpeg. ( depend on ffmpeg )
 ```
 
 * OUTPUT_FILE_PATH
-** .mp4 filename. does not overwrite.
+  * .mp4 filename. does not overwrite.
 * INPUT_PICT_PATH
-** .jpg, .png, .webp, and so on
+  * .jpg, .png, .webp, and so on
 * INPUT_MP3_PATH
-** .mp3, .aac, .ogg, and so on
+  * .mp3, .aac, .ogg, and so on
 
 ## If you use MacOS
 
